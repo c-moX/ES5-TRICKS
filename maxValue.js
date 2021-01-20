@@ -16,3 +16,7 @@ else{
         console.log("Sochib is bigger");
     }
 }
+
+// Other rule: (js)
+var max = Math.max(business, minister, sochib);
+console.log(max);
