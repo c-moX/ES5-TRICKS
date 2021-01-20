@@ -1,0 +1,13 @@
+// Count of the word string/numbers:
+var speech = "I am a good person. I don't snore at night.";
+
+var count = 0;
+for(var i = 0; i < speech.length; i++){
+    var char = speech[i];
+    if(char == " " && speech[i-1] != " "){ // For the double space
+        count++;
+    }
+}
+count++;
+
+console.log(count);
