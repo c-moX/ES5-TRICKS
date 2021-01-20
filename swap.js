@@ -1,3 +1,4 @@
+//Example of the ludo game points:
 // Rule: 01(Any Language):
 var a = 5;
 var b = 7;

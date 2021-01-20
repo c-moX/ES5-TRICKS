@@ -1,3 +1,4 @@
+// Max value of the biggest numbers:
 var business = 650;
 var minister = 750;
 var sochib = 550;

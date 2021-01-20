@@ -1,3 +1,4 @@
+// Max value of the array numbers:
 var marks = [10, 50, 20, 60, 30, 70, 40];
 var max = marks[0];
 

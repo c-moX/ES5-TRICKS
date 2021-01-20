@@ -1,3 +1,4 @@
+// Value of the random numbers:
 var num = 2.499999;
 var result = Math.floor(num); // Down
 var result2 = Math.ceil(num); // Up
