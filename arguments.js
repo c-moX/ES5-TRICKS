@@ -1,7 +1,7 @@
 // All perameters pass this arguments; 
 function getFullName(){
     let fulllName = '';
-    console.log(arguments);
+    // console.log(arguments);
     // const result = [...arguments].join(' '); //For ES6 OR arguments
     for(let i = 0; i < arguments.length; i++){
         fulllName = fulllName + ' ' + arguments[i];
